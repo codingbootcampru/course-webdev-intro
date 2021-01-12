@@ -11,7 +11,7 @@ Videos посмотреть:
 
 ## Задание
 
-1. Установить плагин для форматирования JSON-файл. Скачать проект с гитхаба (Download ZIP) https://github.com/klishevich/business_react_boilerplate
+1. Скачать проект с гитхаба (Download ZIP) https://github.com/klishevich/business_react_boilerplate
    * а) Найти в проекте файл с расширением JSON (тот который плохо отформатирован)
    * б) Отформатировать найденный файл. При необходимости установить Extension.
 2. В файле reindent.html сделать html с отступами
